@@ -13,8 +13,8 @@
     "css",
     "js"
   ],
-  "author": "Filip Biegun",
-  "license": "ISC",
+  "author": "Holeigh J. Skyler Foundationn",
+  "license": "MIT",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-cssmin": "^2.0.0",
